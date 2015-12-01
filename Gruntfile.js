@@ -177,7 +177,7 @@ module.exports = function (grunt) {
             var bowerJsonFile = require(bowerJsonFileName);
 
             var GitContributors = require('git-contributors').GitContributors;
-            var opts = {cwd: '/Users/shchum03/www/encoda',
+            var opts = {cwd: process.cwd(),
                         markdown: false
                     };
             grunt.log.writeln('Downloading release and contributor information from GitHub...');
