@@ -1,0 +1,213 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   '--registry',
+1 verbose cli   'https://npm.morph.int.tools.bbc.co.uk',
+1 verbose cli   '--cert=Bag Attributes\n    friendlyName: Marina Shchukina\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nsubject=/emailAddress=Marina.Shchukina02@bbc.co.uk/CN=Marina Shchukina/OU=BBC - POD/O=British Broadcasting Corporation/L=London/C=GB\nissuer=/C=GB/L=London/O=British Broadcasting Corporation/OU=FMT Greenhouse/CN=BBC Greenhouse Development Staff CA\n-----BEGIN CERTIFICATE-----\nMIIErDCCA5SgAwIBAgIIY0bRb1xIbKAwDQYJKoZIhvcNAQEFBQAwgZAxCzAJBgNV\nBAYTAkdCMQ8wDQYDVQQHDAZMb25kb24xKTAnBgNVBAoMIEJyaXRpc2ggQnJvYWRj\nYXN0aW5nIENvcnBvcmF0aW9uMRcwFQYDVQQLDA5GTVQgR3JlZW5ob3VzZTEsMCoG\nA1UEAwwjQkJDIEdyZWVuaG91c2UgRGV2ZWxvcG1lbnQgU3RhZmYgQ0EwHhcNMTUw\nOTAzMTUyOTI4WhcNMTYwOTAyMTUyOTI4WjCBpTErMCkGCSqGSIb3DQEJARYcTWFy\naW5hLlNoY2h1a2luYTAyQGJiYy5jby51azEZMBcGA1UEAwwQTWFyaW5hIFNoY2h1\na2luYTESMBAGA1UECwwJQkJDIC0gUE9EMSkwJwYDVQQKDCBCcml0aXNoIEJyb2Fk\nY2FzdGluZyBDb3Jwb3JhdGlvbjEPMA0GA1UEBwwGTG9uZG9uMQswCQYDVQQGEwJH\nQjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMDn8iltg/wFvLHBTg9J\n0GN4PMyRHlTcKXvUGP66nP2vfwl+sza2yVFr3JMUR7ixM0qkOaUD/LAyjMvQthKw\ncRsDDyV1c11ib7eVkCSLDNzDdn3eQcJu4m9kwObPX+QE3C63bO2HfV2n96xVzvTH\nAuQFq7ceTxc2ZRStUM0wf9JY4Wo2i3ONb3tRpziZlwP1dDchx380n5Jq4EdI0QXg\n2uv0CNW+CGj2KCfGMt56mvYPveeuvLiLbLz0Kd6lnqNdL5q0Hg43R2A5PvnFPBhl\nwVgYKhTa3z3WQFE60r47Axm6xFewKK7HTJSn8rqaOU+GTDthQNc5eNwfMySqmlUm\nCV8CAwEAAaOB8jCB7zAdBgNVHQ4EFgQUZXRQKRLRl7u1ryqGsOEpwIKG5C4wCQYD\nVR0TBAIwADAfBgNVHSMEGDAWgBQzhG4vFgmo/iH3W3VVPRJkYNi5RDAPBgNVHQ8B\nAf8EBQMDB/+AMIGQBgNVHSUEgYgwgYUGBFUdJQAGCCsGAQUFBwMBBggrBgEFBQcD\nAgYIKwYBBQUHAwMGCCsGAQUFBwMEBggrBgEFBQcDCAYKKwYBBAGCNxQCAgYIKwYB\nBQUHAwkGCisGAQQBgjcKAwQGCysGAQQBgjcKAwQBBggrBgEFBQcDEQYIKwYBBQUH\nAw8GCCsGAQUFBwMQMA0GCSqGSIb3DQEBBQUAA4IBAQA/Zsf4ca61ninSZo7Z0fL7\n+vXUKETmTg2amW9luYv9spev1iFIRTOFx79j/JtYcbJE23wa5lt3U1kjbwViiRjb\ns0B9hCuQWN96TgmjPo12QkwSlXsSBiyfv4wtBfsEoB7PsLrPdvvP1PJss3yg3JKY\nQaFT83mCzjsyzIDbKG7BuUUMdTnh7AtWMYbHHHNKoiB0H6KfyPe4/ZzEymdZrDyR\nG/Cof+LlBg7uUUaCRi12VC1KUx0Ibdeq5QfWTVlV2prtNN4/6TjuqOR3dQIZQ3Sz\nFn+MS0RHe9JIrM5m38krOeEYefMVRkVUk17AEyRd4m08Q9xwnF/A1/EtAv2GdX1e\n-----END CERTIFICATE-----\nBag Attributes\n    friendlyName: Marina Shchukina\'s British Broadcasting Corporation ID\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nKey Attributes: <No Attributes>\n-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAwOfyKW2D/AW8scFOD0nQY3g8zJEeVNwpe9QY/rqc/a9/CX6z\nNrbJUWvckxRHuLEzSqQ5pQP8sDKMy9C2ErBxGwMPJXVzXWJvt5WQJIsM3MN2fd5B\nwm7ib2TA5s9f5ATcLrds7Yd9Xaf3rFXO9McC5AWrtx5PFzZlFK1QzTB/0ljhajaL\nc41ve1GnOJmXA/V0NyHHfzSfkmrgR0jRBeDa6/QI1b4IaPYoJ8Yy3nqa9g+95668\nuItsvPQp3qWeo10vmrQeDjdHYDk++cU8GGXBWBgqFNrfPdZAUTrSvjsDGbrEV7Ao\nrsdMlKfyupo5T4ZMO2FA1zl43B8zJKqaVSYJXwIDAQABAoIBAQCwWVpAFSX7VyNR\nPO4ne8tNo7WxLVkVKs+hrBvNgrvSDoWMII+lDSStknVq37dRWG0TZ15rRGHUkeG0\n0XAhVbuQfhNyoxR74mlO4yOKxLNVfjrshiqHnObT/r96QUngIbFH49dordwlqk/4\n89jmXKh/289G8CZNiiSN6oNbkWLI33EiWptRNXje3wXdVmKDRsZ1+COZutXyF5pY\nYgRspa1juEMa6MEGMT5CiT1vGIJCs5xwsau8cb9Odi9HFLMSeyJbOvE9aoHoMQtf\nNq5Wv6HKXIeo6Drb0SJ5QlSsP6tY4nH5of7p+pZvQg/AOk4uID81ZTCaMX73QXnG\nBkaIhoIBAoGBAOmUEVMzRb/FTFwgnMHWStnM/NjiXcd2miomfJGz/a6jGn1Ks5Bt\n/oaTkrNChEgQDseu/90KV2mcE+6GmVLp8G4XDQK3JSyAIOHWAqaI8ZvVIlavICVd\nrGI9YN7JXNzFBdBDG4SwqcZYF8aGmlkRhEvmeB1vzOMUdLCt6DU+Z9vhAoGBANNs\nZmIkywtoHfQcwVHoIbmjVtVPFBoyzAskeJRxQkM/+Ny3Hv8CcZzp73k3Kfggq/OA\npbpTdPHdaJCtdJ1S4dBJ3Cy0K6SWyw9NhgWFr5ba/WfmvQASOarlCJ9KRhG3RGjD\n7MNj6EPGqYqBapHBUDC2HBSJbYDJv9XxK47U/I0/AoGAMR64PfzsUBXXpxAcpw6/\nkunuylVgT0/7v510WNe3I4CdU3fgJyFag0aJdTUpyFXIJeoBWKSSGV1/O4wGtk8I\nBr7GN6n4IVGYmKV+zTLDTHgXzo7pfbIjTE2ID5Hc+3hbbp6OLOtR6Koh5dfsoYpz\nfdqrq9UVCzQEDhukV34WLUECgYAfnkF9gfUfopWAMWCz6BxLD+NniSj/dgNP00d5\nI6r+Na35DCXFi08EYXPf0+Eh63jrtJyUTfDaTvtZT6d187QzmygjQ1qXhbmec0CM\nyN5mmB93j2lKfm9DYHc2ozvxYFAJvutEmUdeA3LNdOdEHv3oGwP+CkNnFETtMOEL\nvkx6rwKBgEq57dnwK+o8+g2WVPfMN35EMWOlxhJQfiOr70ZUPMsdb/Miha2bLnFy\nXaPK+IuFD/CmQjDIkjV4Ch6kHCS7zsd3jUuI6ZW50c8G1reCFqe2uFsl4SV+aogK\n2+ADXGNgRQ22ET5GJxwxRehBpFa6NpUoyuftNVzUzAb39dBXPgRg\n-----END RSA PRIVATE KEY-----',
+1 verbose cli   '--key=Bag Attributes\n    friendlyName: Marina Shchukina\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nsubject=/emailAddress=Marina.Shchukina02@bbc.co.uk/CN=Marina Shchukina/OU=BBC - POD/O=British Broadcasting Corporation/L=London/C=GB\nissuer=/C=GB/L=London/O=British Broadcasting Corporation/OU=FMT Greenhouse/CN=BBC Greenhouse Development Staff CA\n-----BEGIN CERTIFICATE-----\nMIIErDCCA5SgAwIBAgIIY0bRb1xIbKAwDQYJKoZIhvcNAQEFBQAwgZAxCzAJBgNV\nBAYTAkdCMQ8wDQYDVQQHDAZMb25kb24xKTAnBgNVBAoMIEJyaXRpc2ggQnJvYWRj\nYXN0aW5nIENvcnBvcmF0aW9uMRcwFQYDVQQLDA5GTVQgR3JlZW5ob3VzZTEsMCoG\nA1UEAwwjQkJDIEdyZWVuaG91c2UgRGV2ZWxvcG1lbnQgU3RhZmYgQ0EwHhcNMTUw\nOTAzMTUyOTI4WhcNMTYwOTAyMTUyOTI4WjCBpTErMCkGCSqGSIb3DQEJARYcTWFy\naW5hLlNoY2h1a2luYTAyQGJiYy5jby51azEZMBcGA1UEAwwQTWFyaW5hIFNoY2h1\na2luYTESMBAGA1UECwwJQkJDIC0gUE9EMSkwJwYDVQQKDCBCcml0aXNoIEJyb2Fk\nY2FzdGluZyBDb3Jwb3JhdGlvbjEPMA0GA1UEBwwGTG9uZG9uMQswCQYDVQQGEwJH\nQjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMDn8iltg/wFvLHBTg9J\n0GN4PMyRHlTcKXvUGP66nP2vfwl+sza2yVFr3JMUR7ixM0qkOaUD/LAyjMvQthKw\ncRsDDyV1c11ib7eVkCSLDNzDdn3eQcJu4m9kwObPX+QE3C63bO2HfV2n96xVzvTH\nAuQFq7ceTxc2ZRStUM0wf9JY4Wo2i3ONb3tRpziZlwP1dDchx380n5Jq4EdI0QXg\n2uv0CNW+CGj2KCfGMt56mvYPveeuvLiLbLz0Kd6lnqNdL5q0Hg43R2A5PvnFPBhl\nwVgYKhTa3z3WQFE60r47Axm6xFewKK7HTJSn8rqaOU+GTDthQNc5eNwfMySqmlUm\nCV8CAwEAAaOB8jCB7zAdBgNVHQ4EFgQUZXRQKRLRl7u1ryqGsOEpwIKG5C4wCQYD\nVR0TBAIwADAfBgNVHSMEGDAWgBQzhG4vFgmo/iH3W3VVPRJkYNi5RDAPBgNVHQ8B\nAf8EBQMDB/+AMIGQBgNVHSUEgYgwgYUGBFUdJQAGCCsGAQUFBwMBBggrBgEFBQcD\nAgYIKwYBBQUHAwMGCCsGAQUFBwMEBggrBgEFBQcDCAYKKwYBBAGCNxQCAgYIKwYB\nBQUHAwkGCisGAQQBgjcKAwQGCysGAQQBgjcKAwQBBggrBgEFBQcDEQYIKwYBBQUH\nAw8GCCsGAQUFBwMQMA0GCSqGSIb3DQEBBQUAA4IBAQA/Zsf4ca61ninSZo7Z0fL7\n+vXUKETmTg2amW9luYv9spev1iFIRTOFx79j/JtYcbJE23wa5lt3U1kjbwViiRjb\ns0B9hCuQWN96TgmjPo12QkwSlXsSBiyfv4wtBfsEoB7PsLrPdvvP1PJss3yg3JKY\nQaFT83mCzjsyzIDbKG7BuUUMdTnh7AtWMYbHHHNKoiB0H6KfyPe4/ZzEymdZrDyR\nG/Cof+LlBg7uUUaCRi12VC1KUx0Ibdeq5QfWTVlV2prtNN4/6TjuqOR3dQIZQ3Sz\nFn+MS0RHe9JIrM5m38krOeEYefMVRkVUk17AEyRd4m08Q9xwnF/A1/EtAv2GdX1e\n-----END CERTIFICATE-----\nBag Attributes\n    friendlyName: Marina Shchukina\'s British Broadcasting Corporation ID\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nKey Attributes: <No Attributes>\n-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAwOfyKW2D/AW8scFOD0nQY3g8zJEeVNwpe9QY/rqc/a9/CX6z\nNrbJUWvckxRHuLEzSqQ5pQP8sDKMy9C2ErBxGwMPJXVzXWJvt5WQJIsM3MN2fd5B\nwm7ib2TA5s9f5ATcLrds7Yd9Xaf3rFXO9McC5AWrtx5PFzZlFK1QzTB/0ljhajaL\nc41ve1GnOJmXA/V0NyHHfzSfkmrgR0jRBeDa6/QI1b4IaPYoJ8Yy3nqa9g+95668\nuItsvPQp3qWeo10vmrQeDjdHYDk++cU8GGXBWBgqFNrfPdZAUTrSvjsDGbrEV7Ao\nrsdMlKfyupo5T4ZMO2FA1zl43B8zJKqaVSYJXwIDAQABAoIBAQCwWVpAFSX7VyNR\nPO4ne8tNo7WxLVkVKs+hrBvNgrvSDoWMII+lDSStknVq37dRWG0TZ15rRGHUkeG0\n0XAhVbuQfhNyoxR74mlO4yOKxLNVfjrshiqHnObT/r96QUngIbFH49dordwlqk/4\n89jmXKh/289G8CZNiiSN6oNbkWLI33EiWptRNXje3wXdVmKDRsZ1+COZutXyF5pY\nYgRspa1juEMa6MEGMT5CiT1vGIJCs5xwsau8cb9Odi9HFLMSeyJbOvE9aoHoMQtf\nNq5Wv6HKXIeo6Drb0SJ5QlSsP6tY4nH5of7p+pZvQg/AOk4uID81ZTCaMX73QXnG\nBkaIhoIBAoGBAOmUEVMzRb/FTFwgnMHWStnM/NjiXcd2miomfJGz/a6jGn1Ks5Bt\n/oaTkrNChEgQDseu/90KV2mcE+6GmVLp8G4XDQK3JSyAIOHWAqaI8ZvVIlavICVd\nrGI9YN7JXNzFBdBDG4SwqcZYF8aGmlkRhEvmeB1vzOMUdLCt6DU+Z9vhAoGBANNs\nZmIkywtoHfQcwVHoIbmjVtVPFBoyzAskeJRxQkM/+Ny3Hv8CcZzp73k3Kfggq/OA\npbpTdPHdaJCtdJ1S4dBJ3Cy0K6SWyw9NhgWFr5ba/WfmvQASOarlCJ9KRhG3RGjD\n7MNj6EPGqYqBapHBUDC2HBSJbYDJv9XxK47U/I0/AoGAMR64PfzsUBXXpxAcpw6/\nkunuylVgT0/7v510WNe3I4CdU3fgJyFag0aJdTUpyFXIJeoBWKSSGV1/O4wGtk8I\nBr7GN6n4IVGYmKV+zTLDTHgXzo7pfbIjTE2ID5Hc+3hbbp6OLOtR6Koh5dfsoYpz\nfdqrq9UVCzQEDhukV34WLUECgYAfnkF9gfUfopWAMWCz6BxLD+NniSj/dgNP00d5\nI6r+Na35DCXFi08EYXPf0+Eh63jrtJyUTfDaTvtZT6d187QzmygjQ1qXhbmec0CM\nyN5mmB93j2lKfm9DYHc2ozvxYFAJvutEmUdeA3LNdOdEHv3oGwP+CkNnFETtMOEL\nvkx6rwKBgEq57dnwK+o8+g2WVPfMN35EMWOlxhJQfiOr70ZUPMsdb/Miha2bLnFy\nXaPK+IuFD/CmQjDIkjV4Ch6kHCS7zsd3jUuI6ZW50c8G1reCFqe2uFsl4SV+aogK\n2+ADXGNgRQ22ET5GJxwxRehBpFa6NpUoyuftNVzUzAb39dBXPgRg\n-----END RSA PRIVATE KEY-----',
+1 verbose cli   '--cafile=/etc/pki/ca-bundle.crt',
+1 verbose cli   'install',
+1 verbose cli   'contributor',
+1 verbose cli   '-g' ]
+2 info using npm@2.14.2
+3 info using node@v4.0.0
+4 verbose install initial load of /usr/local/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+6 silly cache add args [ 'contributor', null ]
+7 verbose cache add spec contributor
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'contributor',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'contributor',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed contributor@*
+10 verbose addNamed "*" is a valid semver range for contributor
+11 silly addNameRange { name: 'contributor', range: '*', hasData: false }
+12 silly mapToRegistry name contributor
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://npm.morph.int.tools.bbc.co.uk/
+15 silly mapToRegistry uri https://npm.morph.int.tools.bbc.co.uk/contributor
+16 verbose addNameRange registry:https://npm.morph.int.tools.bbc.co.uk/contributor not in flight; fetching
+17 verbose request uri https://npm.morph.int.tools.bbc.co.uk/contributor
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 12:37:01 PM
+20 verbose request id 7966128c92740958
+21 verbose etag "EFI28771Z02LPLKL947QZD65F"
+22 http request GET https://npm.morph.int.tools.bbc.co.uk/contributor
+23 http 304 https://npm.morph.int.tools.bbc.co.uk/contributor
+24 silly get cb [ 304,
+24 silly get   { date: 'Tue, 01 Dec 2015 12:37:01 GMT',
+24 silly get     connection: 'keep-alive',
+24 silly get     'x-powered-by': 'Express',
+24 silly get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+24 silly get     etag: '"EFI28771Z02LPLKL947QZD65F"',
+24 silly get     'cache-control': 'max-age=60',
+24 silly get     'accept-ranges': 'bytes',
+24 silly get     via: '1.1 varnish',
+24 silly get     age: '0',
+24 silly get     'x-served-by': 'cache-lcy1123-LCY',
+24 silly get     'x-cache': 'MISS',
+24 silly get     'x-cache-hits': '0',
+24 silly get     'x-timer': 'S1448973421.384876,VS0,VE95',
+24 silly get     vary: 'Accept' } ]
+25 verbose etag https://npm.morph.int.tools.bbc.co.uk/contributor from cache
+26 verbose get saving contributor to /Users/shchum03/.npm/npm.morph.int.tools.bbc.co.uk/contributor/.cache.json
+27 silly addNameRange number 2 { name: 'contributor', range: '*', hasData: true }
+28 silly addNameRange versions [ 'contributor',
+28 silly addNameRange   [ '0.0.1',
+28 silly addNameRange     '0.0.2',
+28 silly addNameRange     '0.0.3',
+28 silly addNameRange     '0.0.3-1',
+28 silly addNameRange     '0.0.3-2',
+28 silly addNameRange     '0.0.4',
+28 silly addNameRange     '0.0.4-1',
+28 silly addNameRange     '0.0.5',
+28 silly addNameRange     '0.0.6',
+28 silly addNameRange     '0.0.7',
+28 silly addNameRange     '0.0.8',
+28 silly addNameRange     '0.0.9',
+28 silly addNameRange     '0.0.10',
+28 silly addNameRange     '0.0.11',
+28 silly addNameRange     '0.0.12',
+28 silly addNameRange     '0.0.13',
+28 silly addNameRange     '0.0.14',
+28 silly addNameRange     '0.0.15',
+28 silly addNameRange     '0.0.16',
+28 silly addNameRange     '0.0.17',
+28 silly addNameRange     '0.0.19',
+28 silly addNameRange     '0.0.20',
+28 silly addNameRange     '0.0.21',
+28 silly addNameRange     '0.0.22',
+28 silly addNameRange     '0.1.0',
+28 silly addNameRange     '0.1.0-1',
+28 silly addNameRange     '0.1.0-2',
+28 silly addNameRange     '0.1.1',
+28 silly addNameRange     '0.1.2',
+28 silly addNameRange     '0.1.3',
+28 silly addNameRange     '0.1.4',
+28 silly addNameRange     '0.1.5',
+28 silly addNameRange     '0.1.6',
+28 silly addNameRange     '0.1.7',
+28 silly addNameRange     '0.1.8',
+28 silly addNameRange     '0.1.9',
+28 silly addNameRange     '0.1.10',
+28 silly addNameRange     '0.1.11',
+28 silly addNameRange     '0.1.12',
+28 silly addNameRange     '0.1.13',
+28 silly addNameRange     '0.1.14',
+28 silly addNameRange     '0.1.15',
+28 silly addNameRange     '0.1.16',
+28 silly addNameRange     '0.1.18',
+28 silly addNameRange     '0.1.19',
+28 silly addNameRange     '0.1.20',
+28 silly addNameRange     '0.1.21',
+28 silly addNameRange     '0.1.22',
+28 silly addNameRange     '0.1.23',
+28 silly addNameRange     '0.1.24',
+28 silly addNameRange     '0.1.25' ] ]
+29 silly addNamed contributor@0.1.25
+30 verbose addNamed "0.1.25" is a plain semver version for contributor
+31 silly cache afterAdd contributor@0.1.25
+32 verbose afterAdd /Users/shchum03/.npm/contributor/0.1.25/package/package.json not in flight; writing
+33 verbose afterAdd /Users/shchum03/.npm/contributor/0.1.25/package/package.json written
+34 silly install resolved [ { author: { name: 'Jake LeBoeuf' },
+34 silly install resolved     name: 'contributor',
+34 silly install resolved     description: 'A simple module to add git contributors to your package.json.',
+34 silly install resolved     version: '0.1.25',
+34 silly install resolved     homepage: 'https://github.com/jakeleboeuf/contributor',
+34 silly install resolved     repository:
+34 silly install resolved      { type: 'git',
+34 silly install resolved        url: 'git+https://github.com/jakeleboeuf/contributor.git' },
+34 silly install resolved     bugs: { url: 'https://github.com/jakeleboeuf/contributor/issues' },
+34 silly install resolved     main: './lib/contributor',
+34 silly install resolved     license: 'MIT',
+34 silly install resolved     keywords:
+34 silly install resolved      [ 'contributor',
+34 silly install resolved        'contribute',
+34 silly install resolved        'collaborator',
+34 silly install resolved        'collaborate',
+34 silly install resolved        'author',
+34 silly install resolved        'github',
+34 silly install resolved        'package',
+34 silly install resolved        'markdown',
+34 silly install resolved        'md' ],
+34 silly install resolved     bin: { contributor: './bin/contributor' },
+34 silly install resolved     scripts: { test: 'mocha -R spec --timeout 25s' },
+34 silly install resolved     engines: { node: '0.10.x', npm: '1.4.x' },
+34 silly install resolved     dependencies:
+34 silly install resolved      { 'ansi-color': '0.2.x',
+34 silly install resolved        github: '0.2.x',
+34 silly install resolved        prompt: '0.2.x',
+34 silly install resolved        request: '2.51.x',
+34 silly install resolved        yesno: '0.0.x' },
+34 silly install resolved     devDependencies: { async: '0.9.x', mocha: '2.0.x', chai: '1.10.x' },
+34 silly install resolved     contributors: [ [Object] ],
+34 silly install resolved     _id: 'contributor@0.1.25',
+34 silly install resolved     _shasum: '9b92a88b9b5cc53854fbf0d09b6c0b255ab5439d',
+34 silly install resolved     _from: 'contributor@*',
+34 silly install resolved     _npmVersion: '2.1.5',
+34 silly install resolved     _nodeVersion: '0.10.30',
+34 silly install resolved     _npmUser: { name: 'jakeleboeuf', email: 'dev@jakeleboeuf.com' },
+34 silly install resolved     maintainers: [ [Object] ],
+34 silly install resolved     dist:
+34 silly install resolved      { shasum: '9b92a88b9b5cc53854fbf0d09b6c0b255ab5439d',
+34 silly install resolved        tarball: 'https://npm.morph.int.tools.bbc.co.uk/contributor/-/contributor-0.1.25.tgz' },
+34 silly install resolved     directories: {},
+34 silly install resolved     _resolved: 'https://npm.morph.int.tools.bbc.co.uk/contributor/-/contributor-0.1.25.tgz',
+34 silly install resolved     readme: 'ERROR: No README data found!' } ]
+35 info install contributor@0.1.25 into /usr/local/lib
+36 info installOne contributor@0.1.25
+37 verbose installOne of contributor to /usr/local/lib not in flight; installing
+38 verbose lock using /Users/shchum03/.npm/_locks/contributor-528043ce4f24ddfa.lock for /usr/local/lib/node_modules/contributor
+39 warn engine contributor@0.1.25: wanted: {"node":"0.10.x","npm":"1.4.x"} (current: {"node":"4.0.0","npm":"2.14.2"})
+40 silly install write writing contributor 0.1.25 to /usr/local/lib/node_modules/contributor
+41 verbose unbuild lib/node_modules/contributor
+42 info preuninstall contributor@0.1.25
+43 info uninstall contributor@0.1.25
+44 verbose unbuild rmStuff contributor@0.1.25 from /usr/local/lib/node_modules
+45 silly gentlyRm /usr/local/bin/contributor is being gently removed
+46 silly gentlyRm verifying /usr/local is an npm working directory
+47 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+48 silly gentlyRm deletion target /usr/local/bin/contributor is under /usr/local
+49 verbose gentlyRm vacuuming from /usr/local/bin/contributor up to /usr/local
+50 silly vacuum-fs removing /usr/local/bin/contributor
+51 verbose unlock done using /Users/shchum03/.npm/_locks/contributor-528043ce4f24ddfa.lock for /usr/local/lib/node_modules/contributor
+52 verbose stack Error: EACCES: permission denied, unlink '/usr/local/bin/contributor'
+52 verbose stack     at Error (native)
+53 verbose cwd /Users/shchum03/www/encoda
+54 error Darwin 14.3.0
+55 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "--registry" "https://npm.morph.int.tools.bbc.co.uk" "--cert=Bag Attributes\n    friendlyName: Marina Shchukina\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nsubject=/emailAddress=Marina.Shchukina02@bbc.co.uk/CN=Marina Shchukina/OU=BBC - POD/O=British Broadcasting Corporation/L=London/C=GB\nissuer=/C=GB/L=London/O=British Broadcasting Corporation/OU=FMT Greenhouse/CN=BBC Greenhouse Development Staff CA\n-----BEGIN CERTIFICATE-----\nMIIErDCCA5SgAwIBAgIIY0bRb1xIbKAwDQYJKoZIhvcNAQEFBQAwgZAxCzAJBgNV\nBAYTAkdCMQ8wDQYDVQQHDAZMb25kb24xKTAnBgNVBAoMIEJyaXRpc2ggQnJvYWRj\nYXN0aW5nIENvcnBvcmF0aW9uMRcwFQYDVQQLDA5GTVQgR3JlZW5ob3VzZTEsMCoG\nA1UEAwwjQkJDIEdyZWVuaG91c2UgRGV2ZWxvcG1lbnQgU3RhZmYgQ0EwHhcNMTUw\nOTAzMTUyOTI4WhcNMTYwOTAyMTUyOTI4WjCBpTErMCkGCSqGSIb3DQEJARYcTWFy\naW5hLlNoY2h1a2luYTAyQGJiYy5jby51azEZMBcGA1UEAwwQTWFyaW5hIFNoY2h1\na2luYTESMBAGA1UECwwJQkJDIC0gUE9EMSkwJwYDVQQKDCBCcml0aXNoIEJyb2Fk\nY2FzdGluZyBDb3Jwb3JhdGlvbjEPMA0GA1UEBwwGTG9uZG9uMQswCQYDVQQGEwJH\nQjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMDn8iltg/wFvLHBTg9J\n0GN4PMyRHlTcKXvUGP66nP2vfwl+sza2yVFr3JMUR7ixM0qkOaUD/LAyjMvQthKw\ncRsDDyV1c11ib7eVkCSLDNzDdn3eQcJu4m9kwObPX+QE3C63bO2HfV2n96xVzvTH\nAuQFq7ceTxc2ZRStUM0wf9JY4Wo2i3ONb3tRpziZlwP1dDchx380n5Jq4EdI0QXg\n2uv0CNW+CGj2KCfGMt56mvYPveeuvLiLbLz0Kd6lnqNdL5q0Hg43R2A5PvnFPBhl\nwVgYKhTa3z3WQFE60r47Axm6xFewKK7HTJSn8rqaOU+GTDthQNc5eNwfMySqmlUm\nCV8CAwEAAaOB8jCB7zAdBgNVHQ4EFgQUZXRQKRLRl7u1ryqGsOEpwIKG5C4wCQYD\nVR0TBAIwADAfBgNVHSMEGDAWgBQzhG4vFgmo/iH3W3VVPRJkYNi5RDAPBgNVHQ8B\nAf8EBQMDB/+AMIGQBgNVHSUEgYgwgYUGBFUdJQAGCCsGAQUFBwMBBggrBgEFBQcD\nAgYIKwYBBQUHAwMGCCsGAQUFBwMEBggrBgEFBQcDCAYKKwYBBAGCNxQCAgYIKwYB\nBQUHAwkGCisGAQQBgjcKAwQGCysGAQQBgjcKAwQBBggrBgEFBQcDEQYIKwYBBQUH\nAw8GCCsGAQUFBwMQMA0GCSqGSIb3DQEBBQUAA4IBAQA/Zsf4ca61ninSZo7Z0fL7\n+vXUKETmTg2amW9luYv9spev1iFIRTOFx79j/JtYcbJE23wa5lt3U1kjbwViiRjb\ns0B9hCuQWN96TgmjPo12QkwSlXsSBiyfv4wtBfsEoB7PsLrPdvvP1PJss3yg3JKY\nQaFT83mCzjsyzIDbKG7BuUUMdTnh7AtWMYbHHHNKoiB0H6KfyPe4/ZzEymdZrDyR\nG/Cof+LlBg7uUUaCRi12VC1KUx0Ibdeq5QfWTVlV2prtNN4/6TjuqOR3dQIZQ3Sz\nFn+MS0RHe9JIrM5m38krOeEYefMVRkVUk17AEyRd4m08Q9xwnF/A1/EtAv2GdX1e\n-----END CERTIFICATE-----\nBag Attributes\n    friendlyName: Marina Shchukina's British Broadcasting Corporation ID\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nKey Attributes: <No Attributes>\n-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAwOfyKW2D/AW8scFOD0nQY3g8zJEeVNwpe9QY/rqc/a9/CX6z\nNrbJUWvckxRHuLEzSqQ5pQP8sDKMy9C2ErBxGwMPJXVzXWJvt5WQJIsM3MN2fd5B\nwm7ib2TA5s9f5ATcLrds7Yd9Xaf3rFXO9McC5AWrtx5PFzZlFK1QzTB/0ljhajaL\nc41ve1GnOJmXA/V0NyHHfzSfkmrgR0jRBeDa6/QI1b4IaPYoJ8Yy3nqa9g+95668\nuItsvPQp3qWeo10vmrQeDjdHYDk++cU8GGXBWBgqFNrfPdZAUTrSvjsDGbrEV7Ao\nrsdMlKfyupo5T4ZMO2FA1zl43B8zJKqaVSYJXwIDAQABAoIBAQCwWVpAFSX7VyNR\nPO4ne8tNo7WxLVkVKs+hrBvNgrvSDoWMII+lDSStknVq37dRWG0TZ15rRGHUkeG0\n0XAhVbuQfhNyoxR74mlO4yOKxLNVfjrshiqHnObT/r96QUngIbFH49dordwlqk/4\n89jmXKh/289G8CZNiiSN6oNbkWLI33EiWptRNXje3wXdVmKDRsZ1+COZutXyF5pY\nYgRspa1juEMa6MEGMT5CiT1vGIJCs5xwsau8cb9Odi9HFLMSeyJbOvE9aoHoMQtf\nNq5Wv6HKXIeo6Drb0SJ5QlSsP6tY4nH5of7p+pZvQg/AOk4uID81ZTCaMX73QXnG\nBkaIhoIBAoGBAOmUEVMzRb/FTFwgnMHWStnM/NjiXcd2miomfJGz/a6jGn1Ks5Bt\n/oaTkrNChEgQDseu/90KV2mcE+6GmVLp8G4XDQK3JSyAIOHWAqaI8ZvVIlavICVd\nrGI9YN7JXNzFBdBDG4SwqcZYF8aGmlkRhEvmeB1vzOMUdLCt6DU+Z9vhAoGBANNs\nZmIkywtoHfQcwVHoIbmjVtVPFBoyzAskeJRxQkM/+Ny3Hv8CcZzp73k3Kfggq/OA\npbpTdPHdaJCtdJ1S4dBJ3Cy0K6SWyw9NhgWFr5ba/WfmvQASOarlCJ9KRhG3RGjD\n7MNj6EPGqYqBapHBUDC2HBSJbYDJv9XxK47U/I0/AoGAMR64PfzsUBXXpxAcpw6/\nkunuylVgT0/7v510WNe3I4CdU3fgJyFag0aJdTUpyFXIJeoBWKSSGV1/O4wGtk8I\nBr7GN6n4IVGYmKV+zTLDTHgXzo7pfbIjTE2ID5Hc+3hbbp6OLOtR6Koh5dfsoYpz\nfdqrq9UVCzQEDhukV34WLUECgYAfnkF9gfUfopWAMWCz6BxLD+NniSj/dgNP00d5\nI6r+Na35DCXFi08EYXPf0+Eh63jrtJyUTfDaTvtZT6d187QzmygjQ1qXhbmec0CM\nyN5mmB93j2lKfm9DYHc2ozvxYFAJvutEmUdeA3LNdOdEHv3oGwP+CkNnFETtMOEL\nvkx6rwKBgEq57dnwK+o8+g2WVPfMN35EMWOlxhJQfiOr70ZUPMsdb/Miha2bLnFy\nXaPK+IuFD/CmQjDIkjV4Ch6kHCS7zsd3jUuI6ZW50c8G1reCFqe2uFsl4SV+aogK\n2+ADXGNgRQ22ET5GJxwxRehBpFa6NpUoyuftNVzUzAb39dBXPgRg\n-----END RSA PRIVATE KEY-----" "--key=Bag Attributes\n    friendlyName: Marina Shchukina\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nsubject=/emailAddress=Marina.Shchukina02@bbc.co.uk/CN=Marina Shchukina/OU=BBC - POD/O=British Broadcasting Corporation/L=London/C=GB\nissuer=/C=GB/L=London/O=British Broadcasting Corporation/OU=FMT Greenhouse/CN=BBC Greenhouse Development Staff CA\n-----BEGIN CERTIFICATE-----\nMIIErDCCA5SgAwIBAgIIY0bRb1xIbKAwDQYJKoZIhvcNAQEFBQAwgZAxCzAJBgNV\nBAYTAkdCMQ8wDQYDVQQHDAZMb25kb24xKTAnBgNVBAoMIEJyaXRpc2ggQnJvYWRj\nYXN0aW5nIENvcnBvcmF0aW9uMRcwFQYDVQQLDA5GTVQgR3JlZW5ob3VzZTEsMCoG\nA1UEAwwjQkJDIEdyZWVuaG91c2UgRGV2ZWxvcG1lbnQgU3RhZmYgQ0EwHhcNMTUw\nOTAzMTUyOTI4WhcNMTYwOTAyMTUyOTI4WjCBpTErMCkGCSqGSIb3DQEJARYcTWFy\naW5hLlNoY2h1a2luYTAyQGJiYy5jby51azEZMBcGA1UEAwwQTWFyaW5hIFNoY2h1\na2luYTESMBAGA1UECwwJQkJDIC0gUE9EMSkwJwYDVQQKDCBCcml0aXNoIEJyb2Fk\nY2FzdGluZyBDb3Jwb3JhdGlvbjEPMA0GA1UEBwwGTG9uZG9uMQswCQYDVQQGEwJH\nQjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMDn8iltg/wFvLHBTg9J\n0GN4PMyRHlTcKXvUGP66nP2vfwl+sza2yVFr3JMUR7ixM0qkOaUD/LAyjMvQthKw\ncRsDDyV1c11ib7eVkCSLDNzDdn3eQcJu4m9kwObPX+QE3C63bO2HfV2n96xVzvTH\nAuQFq7ceTxc2ZRStUM0wf9JY4Wo2i3ONb3tRpziZlwP1dDchx380n5Jq4EdI0QXg\n2uv0CNW+CGj2KCfGMt56mvYPveeuvLiLbLz0Kd6lnqNdL5q0Hg43R2A5PvnFPBhl\nwVgYKhTa3z3WQFE60r47Axm6xFewKK7HTJSn8rqaOU+GTDthQNc5eNwfMySqmlUm\nCV8CAwEAAaOB8jCB7zAdBgNVHQ4EFgQUZXRQKRLRl7u1ryqGsOEpwIKG5C4wCQYD\nVR0TBAIwADAfBgNVHSMEGDAWgBQzhG4vFgmo/iH3W3VVPRJkYNi5RDAPBgNVHQ8B\nAf8EBQMDB/+AMIGQBgNVHSUEgYgwgYUGBFUdJQAGCCsGAQUFBwMBBggrBgEFBQcD\nAgYIKwYBBQUHAwMGCCsGAQUFBwMEBggrBgEFBQcDCAYKKwYBBAGCNxQCAgYIKwYB\nBQUHAwkGCisGAQQBgjcKAwQGCysGAQQBgjcKAwQBBggrBgEFBQcDEQYIKwYBBQUH\nAw8GCCsGAQUFBwMQMA0GCSqGSIb3DQEBBQUAA4IBAQA/Zsf4ca61ninSZo7Z0fL7\n+vXUKETmTg2amW9luYv9spev1iFIRTOFx79j/JtYcbJE23wa5lt3U1kjbwViiRjb\ns0B9hCuQWN96TgmjPo12QkwSlXsSBiyfv4wtBfsEoB7PsLrPdvvP1PJss3yg3JKY\nQaFT83mCzjsyzIDbKG7BuUUMdTnh7AtWMYbHHHNKoiB0H6KfyPe4/ZzEymdZrDyR\nG/Cof+LlBg7uUUaCRi12VC1KUx0Ibdeq5QfWTVlV2prtNN4/6TjuqOR3dQIZQ3Sz\nFn+MS0RHe9JIrM5m38krOeEYefMVRkVUk17AEyRd4m08Q9xwnF/A1/EtAv2GdX1e\n-----END CERTIFICATE-----\nBag Attributes\n    friendlyName: Marina Shchukina's British Broadcasting Corporation ID\n    localKeyID: 65 74 50 29 12 D1 97 BB B5 AF 2A 86 B0 E1 29 C0 82 86 E4 2E \nKey Attributes: <No Attributes>\n-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAwOfyKW2D/AW8scFOD0nQY3g8zJEeVNwpe9QY/rqc/a9/CX6z\nNrbJUWvckxRHuLEzSqQ5pQP8sDKMy9C2ErBxGwMPJXVzXWJvt5WQJIsM3MN2fd5B\nwm7ib2TA5s9f5ATcLrds7Yd9Xaf3rFXO9McC5AWrtx5PFzZlFK1QzTB/0ljhajaL\nc41ve1GnOJmXA/V0NyHHfzSfkmrgR0jRBeDa6/QI1b4IaPYoJ8Yy3nqa9g+95668\nuItsvPQp3qWeo10vmrQeDjdHYDk++cU8GGXBWBgqFNrfPdZAUTrSvjsDGbrEV7Ao\nrsdMlKfyupo5T4ZMO2FA1zl43B8zJKqaVSYJXwIDAQABAoIBAQCwWVpAFSX7VyNR\nPO4ne8tNo7WxLVkVKs+hrBvNgrvSDoWMII+lDSStknVq37dRWG0TZ15rRGHUkeG0\n0XAhVbuQfhNyoxR74mlO4yOKxLNVfjrshiqHnObT/r96QUngIbFH49dordwlqk/4\n89jmXKh/289G8CZNiiSN6oNbkWLI33EiWptRNXje3wXdVmKDRsZ1+COZutXyF5pY\nYgRspa1juEMa6MEGMT5CiT1vGIJCs5xwsau8cb9Odi9HFLMSeyJbOvE9aoHoMQtf\nNq5Wv6HKXIeo6Drb0SJ5QlSsP6tY4nH5of7p+pZvQg/AOk4uID81ZTCaMX73QXnG\nBkaIhoIBAoGBAOmUEVMzRb/FTFwgnMHWStnM/NjiXcd2miomfJGz/a6jGn1Ks5Bt\n/oaTkrNChEgQDseu/90KV2mcE+6GmVLp8G4XDQK3JSyAIOHWAqaI8ZvVIlavICVd\nrGI9YN7JXNzFBdBDG4SwqcZYF8aGmlkRhEvmeB1vzOMUdLCt6DU+Z9vhAoGBANNs\nZmIkywtoHfQcwVHoIbmjVtVPFBoyzAskeJRxQkM/+Ny3Hv8CcZzp73k3Kfggq/OA\npbpTdPHdaJCtdJ1S4dBJ3Cy0K6SWyw9NhgWFr5ba/WfmvQASOarlCJ9KRhG3RGjD\n7MNj6EPGqYqBapHBUDC2HBSJbYDJv9XxK47U/I0/AoGAMR64PfzsUBXXpxAcpw6/\nkunuylVgT0/7v510WNe3I4CdU3fgJyFag0aJdTUpyFXIJeoBWKSSGV1/O4wGtk8I\nBr7GN6n4IVGYmKV+zTLDTHgXzo7pfbIjTE2ID5Hc+3hbbp6OLOtR6Koh5dfsoYpz\nfdqrq9UVCzQEDhukV34WLUECgYAfnkF9gfUfopWAMWCz6BxLD+NniSj/dgNP00d5\nI6r+Na35DCXFi08EYXPf0+Eh63jrtJyUTfDaTvtZT6d187QzmygjQ1qXhbmec0CM\nyN5mmB93j2lKfm9DYHc2ozvxYFAJvutEmUdeA3LNdOdEHv3oGwP+CkNnFETtMOEL\nvkx6rwKBgEq57dnwK+o8+g2WVPfMN35EMWOlxhJQfiOr70ZUPMsdb/Miha2bLnFy\nXaPK+IuFD/CmQjDIkjV4Ch6kHCS7zsd3jUuI6ZW50c8G1reCFqe2uFsl4SV+aogK\n2+ADXGNgRQ22ET5GJxwxRehBpFa6NpUoyuftNVzUzAb39dBXPgRg\n-----END RSA PRIVATE KEY-----" "--cafile=/etc/pki/ca-bundle.crt" "install" "contributor" "-g"
+56 error node v4.0.0
+57 error npm  v2.14.2
+58 error path /usr/local/bin/contributor
+59 error code EACCES
+60 error errno -13
+61 error syscall unlink
+62 error Error: EACCES: permission denied, unlink '/usr/local/bin/contributor'
+62 error     at Error (native)
+62 error  { [Error: EACCES: permission denied, unlink '/usr/local/bin/contributor']
+62 error   errno: -13,
+62 error   code: 'EACCES',
+62 error   syscall: 'unlink',
+62 error   path: '/usr/local/bin/contributor' }
+63 error Please try running this command again as root/Administrator.
+64 verbose exit [ -13, true ]
+65 verbose unbuild lib/node_modules/contributor
+66 info preuninstall contributor@0.1.25
+67 info uninstall contributor@0.1.25
+68 verbose unbuild rmStuff contributor@0.1.25 from /usr/local/lib/node_modules
+69 silly gentlyRm /usr/local/bin/contributor is being gently removed
+70 silly gentlyRm verifying /usr/local is an npm working directory
+71 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+72 silly gentlyRm deletion target /usr/local/bin/contributor is under /usr/local
+73 verbose gentlyRm vacuuming from /usr/local/bin/contributor up to /usr/local
+74 silly vacuum-fs removing /usr/local/bin/contributor
+75 error error rolling back Error: EACCES: permission denied, unlink '/usr/local/bin/contributor'
+75 error error rolling back     at Error (native)
+75 error error rolling back  { [Error: EACCES: permission denied, unlink '/usr/local/bin/contributor']
+75 error error rolling back   errno: -13,
+75 error error rolling back   code: 'EACCES',
+75 error error rolling back   syscall: 'unlink',
+75 error error rolling back   path: '/usr/local/bin/contributor' }
