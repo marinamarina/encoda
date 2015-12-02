@@ -192,7 +192,7 @@ module.exports = function (grunt) {
 
                     // write to authors
                     contributors.forEach(function(c) {
-                        contributorsString += c.name + " <" + c.githubUrl + ">\n";
+                        contributorsString += c.name + " (" + c.githubUrl + ")\n";
                     });
 
                     contributorsArray = contributorsString.trim().split("\n");
